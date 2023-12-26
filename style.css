@@ -291,11 +291,11 @@ li {
 
 
 
-
+/* Skill-Content Start */
 
 
 .about .skills-content {
-  margin-top: 60px;
+  margin-top: 45px;
 }
 
 .about .skills-content .progress {
@@ -330,3 +330,5 @@ li {
   transition: 0.9s;
   background-color: #ffb727;
 }
+
+/* Skill-Content Start End/
